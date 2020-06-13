@@ -1,1 +1,4 @@
+•| Após estar no devido diretório do projeto, digite o seguinte comando para executa-lo:
+
+
 python2 DDosAttacker.py
